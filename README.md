@@ -7,12 +7,22 @@
 
 **Languages and Tools:**  
 
+- djknds
+- sdkdfn
+- ds
+- ds
+- ds
+- ds
+- ds
+
+
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 
 -------
- ✏️**近期文章:**
+
+## ✏️近期文章 
 * [Vue实现base64编码图片间的切换](http://www.shengshui.com) - 2021-03-18
 * [Vue实现base64编码图片间的切换](http://www.shengshui.com)
 * [Vue实现base64编码图片间的切换](http://www.shengshui.com)
@@ -21,7 +31,7 @@
 
 
  <details style="cursor: pointer;">
-  <summary>📖近期阅读</summary>
+  <summary>近期阅读</summary>
   <div style="width: 98%; margin: 0 auto">
 <ul>
 <li><a href="https://juejin.cn/post/6939778440635613215">Flutter热重载 </a></li>
@@ -30,8 +40,12 @@
   </div>
 </details>
 
+
+## Contact
+- [wechat](https://marton.lederer.hu)
+
  <details style="cursor: pointer;">
-  <summary>💬</summary>
+  <summary></summary>
   <div style="width: 98%; margin: 0 auto">
 <ul>
 <li>微信：121071838</li>
