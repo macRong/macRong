@@ -1,5 +1,22 @@
-<h1 align="center">Hi there, I'm <a href="https://www.shengshui.com" target="_blank">macRong👋</a> </h1>
+<h1 align="center">Hi there, I'm <a href="https://www.shengshui.com" target="_blank">macRong👋
+<br />
 
+
+</a>
+
+  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Wechat&color=brightgreen" width="70" height="50" />
+
+  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Weibo&color=red" width="70" height="50" />
+
+  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Leetcode&color=black" width="70" height="50" />
+  
+</h1>
+
+
+
+
+
+  
 <br />
 
 我来了！以后在这里学习、吐槽、coding😄
@@ -40,10 +57,6 @@
 </details>
 
 
-## Contact
-- [wechat](https://github.com/macRong/macRong/blob/main/Resource/wechat-gzh.jpg)
-- [Weibo](https://weibo.com/121071838)
-- [Leetcode](https://leetcode-cn.com/u/macrong/)
 
 </ul>
   </div>
