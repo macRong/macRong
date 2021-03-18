@@ -25,20 +25,7 @@
   
 <br />
 
-我来了！以后在这里学习、吐槽、coding😄
-  <img align="right" alt="GIF" src="https://github.com/macRong/macRong/blob/main/Resource/coding.gif?raw=true" width="500" height="320" />
-
-**Languages and Tools:**  
-
-- djknds
-- sdkdfn
-- ds
-- ds
-- ds
-- ds
-- ds
-
-
+## Hello world 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
