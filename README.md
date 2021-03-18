@@ -1,5 +1,4 @@
-### Hi, I'm [macRong!](https://www.shengshui.com) 👋
-- 微信：121071838
+<h1 align="center">Hi there, I'm <a href="https://www.shengshui.com" target="_blank">macRong👋</a> </h1>
 
 <br />
 
@@ -13,7 +12,7 @@
 
 
 -------
- 📝**我的的工作笔记:**
+ 📝**近期文章:**
 <details style="cursor: pointer;">
   <summary>Vue项目踩坑经验总结</summary>
   <div style="width: 98%; margin: 0 auto">
@@ -26,7 +25,7 @@
 
 ---
 
- 📑**近期学习推荐:**
+ 📑**近期阅读:**
  <details style="cursor: pointer;">
   <summary>2021年3月份</summary>
   <div style="width: 98%; margin: 0 auto">
@@ -45,6 +44,8 @@
 <ul>
 <li>微信：121071838</li>
 <li><a href="https://weibo.com/121071838/"> 微博 </a></li>
+<li><a href="https://leetcode-cn.com/u/macrong/"> Leetcode </a></li>
+
 </ul>
   </div>
 </details>
@@ -106,7 +107,6 @@
 <td valign="top" width="50%">
 
 #### 🏊‍♂️编程精力分配
-
 <!--START_SECTION:waka-->
 ```text
 Objective-C: ██████████████░░░░░░░░░░░   50.23% 
