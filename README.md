@@ -30,10 +30,8 @@
   </div>
 </details>
 
----
-
  <details style="cursor: pointer;">
-  <summary>💬联系我</summary>
+  <summary>💬</summary>
   <div style="width: 98%; margin: 0 auto">
 <ul>
 <li>微信：121071838</li>
@@ -44,14 +42,7 @@
   </div>
 </details>
 
-
- <details style="cursor: pointer;">
-  <summary>统计</summary>
-  <div style="width: 98%; margin: 0 auto">
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=macRong&hide_title=true&hide_border=true&langs_count=5)
-
-  </div>
+   </div>
 </details>
 
 
