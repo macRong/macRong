@@ -20,7 +20,6 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 
--------
 
 ## ✏️近期文章 
 * [Vue实现base64编码图片间的切换](http://www.shengshui.com) - 2021-03-18
@@ -43,14 +42,8 @@
 
 ## Contact
 - [wechat](https://marton.lederer.hu)
-
- <details style="cursor: pointer;">
-  <summary></summary>
-  <div style="width: 98%; margin: 0 auto">
-<ul>
-<li>微信：121071838</li>
-<li><a href="https://weibo.com/121071838/"> 微博 </a></li>
-<li><a href="https://leetcode-cn.com/u/macrong/"> Leetcode </a></li>
+- [Weibo](https://weibo.com/121071838)
+- [Leetcode](https://leetcode-cn.com/u/macrong/)
 
 </ul>
   </div>
