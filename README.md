@@ -52,6 +52,15 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macRong&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=macRong&repo=github-readme-stats&show_owner=macRong)](https://github.com/anuraghazra/github-readme-stats)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macRong&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+Objective-C:        ██████████████████▓░░░░░░   79.42 % 
+
+C++               ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Swift               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Shell              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
