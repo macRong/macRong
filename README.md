@@ -2,14 +2,18 @@
 <br />
 </a>
 
-
-<a href="https://www.shengshui.com>
-  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Wechat&color=brightgreen" width="60" height="25" />
-  </a>
+<a href="https://github.com/macRong/macRong/blob/main/Resource/wechat-gzh.jpg" target="-blank" title="Wechat">
+<img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Wechat&color=brightgreen" width="60" height="25" />
+</a>
   
+  <a href="https://weibo.com/121071838" target="-blank" title="Weibo">
   <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Weibo&color=red" width="60" height="25" />
+  </a>
 
+
+  <a href="https://leetcode-cn.com/u/macrong/" target="-blank" title="Leetcode">
   <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Leetcode&color=black" width="60" height="25" />
+  </a>
   
 
 </h1>
