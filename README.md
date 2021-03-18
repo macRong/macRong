@@ -41,7 +41,7 @@
 
 
 ## Contact
-- [wechat](https://marton.lederer.hu)
+- [wechat](https://github.com/macRong/macRong/blob/main/Resource/wechat-gzh.jpg)
 - [Weibo](https://weibo.com/121071838)
 - [Leetcode](https://leetcode-cn.com/u/macrong/)
 
