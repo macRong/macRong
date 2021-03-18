@@ -52,7 +52,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
   </div>
 </details>
 
--
+--
 
  📑**近期学习推荐:**
  <details style="cursor: pointer;">
@@ -65,7 +65,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
   </div>
 </details>
 
--
+--
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
