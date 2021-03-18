@@ -55,24 +55,20 @@
   <summary>统计</summary>
   <div style="width: 98%; margin: 0 auto">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macRong&show_icons=true)
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=macRong&hide_title=true&hide_border=true&langs_count=5)
-<li><a href="https://weibo.com/121071838/"> 微博 </a></li>
-
+<!--START_SECTION:waka-->
+```text
+⌚︎ Time Zone: 精力分配
+Objective-C: ██████████████░░░░░░░░░░░   50.23% 
+C++:         ████░░░░░░░░░░░░░░░░░░░░░   16.63% 
+Swift:       ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
+Arithmetic:  ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
+Basics:      ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
+```
+<!--END_SECTION:waka-->
   </div>
 </details>
 
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macRong&show_icons=true)
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=macRong&hide_title=true&hide_border=true&langs_count=5)
-
-
-
-
-
-
-Objective-C:        ██████████████████▓░░░░░░   79.42 % 
-
-C++               ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Swift               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Shell              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
