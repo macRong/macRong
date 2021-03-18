@@ -19,6 +19,9 @@
   <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Blog&color=blue" width="55" height="25" />
   </a>
   
+
+![Profile Views](https://komarev.com/ghpvc/?username=macRong)
+
 </h1>
 
 
