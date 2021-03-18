@@ -15,7 +15,7 @@
   <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Leetcode&color=black" width="60" height="25" />
   </a>
   
-    <a href="https://shengshui.com" target="_blank" title="Blog">
+   <a href="https://shengshui.com" target="_blank" title="Blog">
   <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Blog&color=blue" width="60" height="25" />
   </a>
   
