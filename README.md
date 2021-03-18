@@ -14,11 +14,6 @@
   <a href="https://leetcode-cn.com/u/macrong/" target="_blank" title="Leetcode">
   <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Leetcode&color=black" width="60" height="25" />
   </a>
-  
-  *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-
-
 </h1>
 
 
