@@ -95,7 +95,17 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️Time Zone
+
+#### 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macRong&show_icons=true)
+
+
+
+
+</td>
+<td valign="top" width="50%">
+
+#### 🏊‍♂️编程精力分配
 
 <!--START_SECTION:waka-->
 ```text
@@ -106,16 +116,6 @@ Arithmetic:  ██░░░░░░░░░░░░░░░░░░░░�
 Basics:      ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
 ```
 <!--END_SECTION:waka-->
-
-</td>
-<td valign="top" width="50%">
-
-#### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macRong&show_icons=true)
-
-
 
 </td>
   </tr>
