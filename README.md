@@ -80,8 +80,9 @@
 * <a href='https://tw93.github.io/2020-06-28/zaozaoliao.html' target='_blank'>早早聊微前端专题分享</a> - 2020-06-28
 * <a href='https://tw93.github.io/2020-05-27/good-app.html' target='_blank'>我的 2020 🔥软件分享</a> - 2020-05-27
 * <a href='https://tw93.github.io/2020-04-21/one.html' target='_blank'>飞猪统一运营工作台的解决方案</a> - 2020-04-21
-* <a href='https://tw93.github.io/2020-03-30/serverless-two.html' target='_blank'>飞猪 Serverless 体系建设（S2）</a> - 2020-03-30
-*  -->
+-->
+* <a href='https://github.com/macRong/Shell-Note/blob/master/1000%E4%BE%8B/%E9%87%8D%E7%AD%BE%E5%90%8Dapp/resignApp.sh' target='_blank'>重签名app</a> 
+
 <!-- blog ends -->
 
 </td>
