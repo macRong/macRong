@@ -26,7 +26,7 @@
 
 
 
- 来了，12年底iOS开发，喜欢C++、Linux、算法等。走了很多弯路、踩了很多坑，认真反思复盘，昂首挺胸大胆前行。编程格言：基础性+系统性+价值产出+收获成长。经常性的在这里更新所思所想 [blog](https://shengshui.com)![Profile Views](https://komarev.com/ghpvc/?username=macRong)
+ 来了，12年底iOS开发，喜欢C++、Linux、算法等。走了很多弯路、踩了很多坑，认真反思复盘，昂首挺胸大胆前行。编程格言：基础性+系统性+价值产出+收获成长。经常性的在这里更新所思所想 [blog](https://shengshui.com)
 
  
 
@@ -56,7 +56,7 @@
 </details>
 
 
-## 数据展示
+## 数据展示 ![Profile Views](https://komarev.com/ghpvc/?username=macRong)
 
 <table width="800px">
 <tr>
