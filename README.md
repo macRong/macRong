@@ -14,14 +14,18 @@
   <a href="https://leetcode-cn.com/u/macrong/" target="_blank" title="Leetcode">
   <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Leetcode&color=black" width="60" height="25" />
   </a>
+  
+    <a href="https://shengshui.com" target="_blank" title="Blog">
+  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Blog&color=blue" width="60" height="25" />
+  </a>
+  
 </h1>
 
 
 ## Hello world 
 
- 来了，12年底iOS开发，喜欢C++、Linux、算法等。编程格言：基础性+系统性+价值产出/入=快乐编程 [blog](https://shengshui.com)
+ 来了，12年底iOS开发，喜欢C++、Linux、算法等。以后也不定期的来这里更新所思所想，编程格言：基础性+系统性+价值产出+收获成长 [blog](https://shengshui.com)
  
- *NOTE:不定期更新
 
 
 
