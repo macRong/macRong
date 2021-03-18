@@ -41,7 +41,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 
 -------
- 📖**我的的工作笔记:**
+ 📝**我的的工作笔记:**
 <details style="cursor: pointer;">
   <summary>Vue项目踩坑经验总结</summary>
   <div style="width: 98%; margin: 0 auto">
