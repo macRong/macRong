@@ -4,11 +4,11 @@
 
 </a>
 
-  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Wechat&color=brightgreen" width="60" height="20" />
+  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Wechat&color=brightgreen" width="60" height="25" />
 
-  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Weibo&color=red" width="60" height="20" />
+  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Weibo&color=red" width="60" height="25" />
 
-  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Leetcode&color=black" width="60" height="20" />
+  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Leetcode&color=black" width="60" height="25" />
   
 </h1>
 
