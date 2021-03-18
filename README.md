@@ -1,6 +1,6 @@
 ### Hi, I'm [macRong!](https://www.shengshui.com) 👋
+- 微信：121071838
 
-<br />
 <br />
 
 我来了！以后在这里学习、吐槽、coding😄
@@ -33,6 +33,18 @@
 <ul>
 <li><a href="https://juejin.cn/post/6939778440635613215">Flutter热重载 </a></li>
 <li><a href="https://juejin.cn/post/6939696911788507150"> iOS摸鱼周报 第六期 </a></li>
+</ul>
+  </div>
+</details>
+
+---
+
+ <details style="cursor: pointer;">
+  <summary>💬联系我</summary>
+  <div style="width: 98%; margin: 0 auto">
+<ul>
+<li>微信：121071838</li>
+<li><a href="https://weibo.com/121071838/"> 微博 </a></li>
 </ul>
   </div>
 </details>
