@@ -54,10 +54,11 @@
  <details style="cursor: pointer;">
   <summary>统计</summary>
   <div style="width: 98%; margin: 0 auto">
-<ul>
-<li>![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=macRong&hide_title=true&hide_border=true&langs_count=5)</li>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macRong&show_icons=true)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=macRong&hide_title=true&hide_border=true&langs_count=5)
 <li><a href="https://weibo.com/121071838/"> 微博 </a></li>
-</ul>
+
   </div>
 </details>
 
