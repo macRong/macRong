@@ -62,12 +62,8 @@
 <tr>
 <td valign="top" width="50%">
 
- 📝**近期文章:**
-* djn
-* dfkodfmdf
-* dfweew
-* weewqw
-* assd
+ 📝**C++ Note:**
+
 
 </td>
 <td valign="top" width="50%">
