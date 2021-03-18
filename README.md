@@ -56,3 +56,27 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
 </a>
+
+-------
+ 📖**我的的工作笔记:**
+<details style="cursor: pointer;">
+  <summary>Vue项目踩坑经验总结</summary>
+  <div style="width: 98%; margin: 0 auto">
+<ul>
+<li><a href="https://juejin.cn/post/6844904013666713607">Vue实现base64编码图片间的切换</a></li>
+<li><a href="https://juejin.cn/post/6844904008016986120">Vue实现图片与文字混输</a></li>
+</ul>
+  </div>
+</details>
+
+-------
+ 📖**近期学习推荐:**
+ <details style="cursor: pointer;">
+  <summary>2021年3月份</summary>
+  <div style="width: 98%; margin: 0 auto">
+<ul>
+<li><a href="https://juejin.cn/post/6844904013666713607">Vue实现base64编码图片间的切换</a></li>
+<li><a href="https://juejin.cn/post/6844904008016986120">Vue实现图片与文字混输</a></li>
+</ul>
+  </div>
+</details>
