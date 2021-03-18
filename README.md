@@ -112,25 +112,4 @@ Basics:      ███░░░░░░░░░░░░░░░░░░░�
   </tr>
   </table>
 
----
 
-<a href="https://github.com/macRong/macRong/blob/main/Resource/wechat-gzh.jpg" target="_blank" title="Wechat">
-<img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Wechat&color=brightgreen" width="60" height="25" />
-</a>
-  
-  <a href="https://weibo.com/121071838" target="_blank" title="Weibo">
-  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Weibo&color=red" width="60" height="25" />
-  </a>
-
-
-  <a href="https://leetcode-cn.com/u/macrong/" target="_blank" title="Leetcode">
-  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Leetcode&color=black" width="60" height="25" />
-  </a>
-  
-   <a href="https://shengshui.com" target="_blank" title="Blog">
-  <img align="center" alt="GIF" src="https://img.shields.io/static/v1?label=&message=Blog&color=blue" width="55" height="25" />
-  </a>
-  
-  <br />
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=macRong)
