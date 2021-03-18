@@ -19,7 +19,7 @@
 
 ## Hello world 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: 以后就入住这里了，12年底iOS开发，喜欢C++、Linux、算法等。编程格言：基础性+系统性+价值产出/入=快乐编程 [blog](https://shengshui.com)*
 
 
 
