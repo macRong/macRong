@@ -56,22 +56,10 @@
   <div style="width: 98%; margin: 0 auto">
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=macRong&hide_title=true&hide_border=true&langs_count=5)
-<!--START_SECTION:waka-->
-```text
-⌚︎ Time Zone: 精力分配
-Objective-C: ██████████████░░░░░░░░░░░   50.23% 
-C++:         ████░░░░░░░░░░░░░░░░░░░░░   16.63% 
-Swift:       ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
-Arithmetic:  ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
-Basics:      ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
-```
-<!--END_SECTION:waka-->
+
   </div>
 </details>
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macRong&show_icons=true)
 
 
 <table width="800px">
@@ -107,33 +95,27 @@ Basics:      ███░░░░░░░░░░░░░░░░░░░�
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
+#### 🏊‍♂️Time Zone
 
-<!-- code_time starts -->
-
+<!--START_SECTION:waka-->
 ```text
-Markdown           31 mins  ████████████████████▒░░░  71.1%
-Bash               10 mins  █████████▒░░░░░░░░░░░░░░  24.6%
-JavaScript          0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   1.4%
-HTML                0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   1.0%
-Other               0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   0.8%
-Java                0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   0.7%
+Objective-C: ██████████████░░░░░░░░░░░   50.23% 
+C++:         ████░░░░░░░░░░░░░░░░░░░░░   16.63% 
+Swift:       ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
+Arithmetic:  ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
+Basics:      ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
 ```
-
-<!-- code_time ends -->
+<!--END_SECTION:waka-->
 
 </td>
 <td valign="top" width="50%">
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
-<!-- douban starts -->
-* <a href='http://movie.douban.com/subject/27148168/' target='_blank'>在看赘婿</a> - 2021-02-28
-* <a href='http://movie.douban.com/subject/34841067/' target='_blank'>看过你好，李焕英</a> - 2021-02-19
-* <a href='https://book.douban.com/subject/6974582/' target='_blank'>最近在读股票作手回忆录</a> - 2021-02-17
-* <a href='https://book.douban.com/subject/35025832/' target='_blank'>想读巴芒演义</a> - 2021-02-17
-* <a href='https://book.douban.com/subject/5243775/' target='_blank'>想读聪明的投资者</a> - 2021-02-17
-<!-- douban ends -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macRong&show_icons=true)
+
+
 
 </td>
   </tr>
