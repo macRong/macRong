@@ -48,6 +48,7 @@
 <details style="cursor: pointer;">
   <summary>近期看的电影</summary>
 
+* 《大明劫》-第2次看 - 20210321 15：30
 * 《肖申克的救赎》-第n次看
 * 《朱元璋传》- 第2次看
 * ... 
