@@ -36,6 +36,26 @@
 * [fishhook原理](http://www.shengshui.com) - 2021-03-18
 
 
+<details style="cursor: pointer;">
+  <summary>近期看的书</summary>
+
+* 《冥想》
+* 《沉思录》
+* 《围城》
+
+</details>
+
+<details style="cursor: pointer;">
+  <summary>近期看的电影</summary>
+
+* 《肖申克的救赎》-第n次看
+* 《朱元璋传》- 第2次看
+* ... 
+
+</details>
+
+
+
  <details style="cursor: pointer;">
   <summary>近期阅读</summary>
   <div style="width: 98%; margin: 0 auto">
