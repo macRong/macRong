@@ -62,8 +62,9 @@
 <tr>
 <td valign="top" width="50%">
 
- 📝**C++ Note:**
+ 🎬**Media Note:**
 
+* <a href='https://github.com/macRong/media-Note' target='_blank'>音视频0-1基础篇</a> 
 
 </td>
 <td valign="top" width="50%">
