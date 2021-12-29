@@ -66,7 +66,7 @@
 
 <details style="cursor: pointer;">
   <summary>不错的blog</summary>
-[here](https://github.com/macRong/macRong/wiki/%E5%9B%BD%E5%86%85%E5%A4%96%E4%B8%8D%E9%94%99%E7%9A%84%E6%8A%80%E6%9C%AFblog#%E6%8A%80%E6%9C%AFblog)
+[blog](https://github.com/macRong/macRong/wiki/%E5%9B%BD%E5%86%85%E5%A4%96%E4%B8%8D%E9%94%99%E7%9A%84%E6%8A%80%E6%9C%AFblog#%E6%8A%80%E6%9C%AFblog)
 
 </details>
 
