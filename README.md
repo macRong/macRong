@@ -1,3 +1,5 @@
+<!--
+/**
 <h1 align="center">Hi there, I'm <a href="https://www.shengshui.com" target="_blank">macRong👋
 <br />
 </a>
@@ -94,16 +96,6 @@
 
 #### 🤹‍♀️ <a href="https://github.com/macRong/Shell-Note" target="_blank">Shell Note</a>
 
-<!-- blog starts -->
-<!-- 
-* <a href='https://tw93.github.io/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
-* <a href='https://tw93.github.io/2020-06-28/zaozaoliao.html' target='_blank'>早早聊微前端专题分享</a> - 2020-06-28
-* <a href='https://tw93.github.io/2020-05-27/good-app.html' target='_blank'>我的 2020 🔥软件分享</a> - 2020-05-27
-* <a href='https://tw93.github.io/2020-04-21/one.html' target='_blank'>飞猪统一运营工作台的解决方案</a> - 2020-04-21
--->
-* <a href='https://github.com/macRong/Shell-Note/blob/master/1000%E4%BE%8B/%E9%87%8D%E7%AD%BE%E5%90%8Dapp/resignApp.sh' target='_blank'>重签名app</a> 
-
-<!-- blog ends -->
 
 </td>
 </tr>
@@ -121,18 +113,13 @@
 <td valign="top" width="50%">
 
 #### 🏊‍♂️编程精力分配
+
 <!--START_SECTION:waka-->
-```text
-Objective-C: ██████████████░░░░░░░░░░░   50.23% 
-C++:         ████░░░░░░░░░░░░░░░░░░░░░   16.63% 
-Swift:       ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
-Algorithmic:  ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
-Basics:      ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
-```
+
+
 <!--END_SECTION:waka-->
 
 </td>
   </tr>
   </table>
-
 
